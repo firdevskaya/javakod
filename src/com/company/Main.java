@@ -7,6 +7,8 @@ public class Main {
  System.out.println("locala gonder");
         System.out.println("gite gonder");
         System.out.println("branche ekle");
+        System.out.println("masterden brancha ekle");
+
 
     }
 }
